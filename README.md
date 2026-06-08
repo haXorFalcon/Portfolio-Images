@@ -46,30 +46,6 @@ This repository acts as a **public CDN** via GitHub raw content, keeping the mai
 
 ---
 
-## 🔗 How to Use These Assets
-
-All files are publicly accessible via GitHub's raw content URL:
-
-```
-https://raw.githubusercontent.com/haXorFalcon/Portfolio-Assets/main/<filename>
-```
-
-**Example:**
-```html
-<!-- Profile Photo -->
-<img src="https://raw.githubusercontent.com/haXorFalcon/Portfolio-Assets/main/myph-removebg-preview.png" />
-
-<!-- Logo -->
-<img src="https://raw.githubusercontent.com/haXorFalcon/Portfolio-Assets/main/mylgo.png" />
-
-<!-- CV Download Link -->
-<a href="https://raw.githubusercontent.com/haXorFalcon/Portfolio-Assets/main/CV.pdf" download>Download CV</a>
-```
-
-<br/>
-
----
-
 ## 🌐 Used By
 
 <div align="center">
